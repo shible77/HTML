@@ -79,8 +79,15 @@
     color: #12274e;
     margin-bottom: 10px;
     font-size: 1.4em;
+    border-bottom: 1px solid #12274e;
+    padding-bottom: 5px;
   }
   
+  .alignItem{
+    display: flex;
+    justify-content: space-between;
+  }
+
   .job h4 {
     font-size: 1.2em;
     color: #333;
